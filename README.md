@@ -1,3 +1,1 @@
-# global_COVID_19_analysis
 
-TO VIEW ANALYSIS, PLEASE SELECT THE .HTML version
